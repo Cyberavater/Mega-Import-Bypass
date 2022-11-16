@@ -1,6 +1,6 @@
 # Mega-Import-Bypass
 
-A userscript to import a inifinitly large directory bypassing your storage limit on only *1* condition
+A userscript to import a inifinitly large directory (in theory) bypassing your storage limit on only *1* condition
 -As long as there’s even a little space remaining in your cloud, you can import any link bypassing the storage quota you have. Beware that folder large as TBs can take hours to import.
 
 -Installation:
