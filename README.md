@@ -9,7 +9,7 @@ A userscript to import an inifinitly large directory (in theory) bypassing your 
 
 -Limitations:
 1. Beware that folders as large as TBs can take hours to import.
-2. Also, check this <a href="https://github.com/Cyberavater/Mega-Import-Bypass/issues/2#issuecomment-1722225155">Issue</a> here maybe you can also suggest some solution.
+2. Also, check this <a href="https://github.com/Cyberavater/Mega-Import-Bypass/issues/2#issuecomment-1722225155">Issue</a> here maybe you can also suggest some solutions.
 
 Credit:
 This script was written by methusela
