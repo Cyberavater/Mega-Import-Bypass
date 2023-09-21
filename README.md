@@ -1,5 +1,7 @@
 # Mega-Import-Bypass
 
+As of today 21 September 2023, this script is NOT working anymore. https://github.com/Cyberavater/Mega-Import-Bypass/issues/5
+
 A userscript to import an inifinitly large directory (in theory) bypassing your storage limit on only *1* condition
 -As long as there’s even a little space remaining in your cloud, you can import any link bypassing the storage quota you have.
 
